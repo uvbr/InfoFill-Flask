@@ -5,5 +5,5 @@ class Configurations(object):
     MAIL_SERVER='smtp.gmail.com'
     MAIL_PORT=465
     MAIL_USE_SSL=True
-    MAIL_USERNAME = "unifiedsimplified.automation@gmail.com"
-    MAIL_PASSWORD = 'nexiilabs'
+    MAIL_USERNAME = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    MAIL_PASSWORD = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
